@@ -1,0 +1,12 @@
+* Topics projects from Summer 2020
+- [[https://github.com/hunter-teacher-cert/summer-2020-topics-project-data-mining][Data Mining by Bob]]
+- [[https://github.com/hunter-teacher-cert/summer-2020-topics-project-public-key-encryption][Encryption by Sangmin/JSwot/Daniel]]
+- [[https://github.com/hunter-teacher-cert/summer-2020-topics-project-kp-duty][Blockchain by Ken/Pat]]
+- [[https://github.com/hunter-teacher-cert/summer-2020-topics-project-natural-language-processing][NLP by Josh/Jack]]
+- [[https://github.com/hunter-teacher-cert/summer-2020-topics-project-jam_code][Decision Trees by J-Du/Alex/Margie]]
+- [[https://github.com/hunter-teacher-cert/summer-2020-topics-project-select-rw_tl-from-database][SQL by Tsee/Rosane]]
+- [[https://github.com/hunter-teacher-cert/summer-2020-topics-project-data_viz][Visualization by Lisa/Angelo]]
+- [[https://github.com/hunter-teacher-cert/summer-2020-topics-project-ml-shift-ciphers][Cipher Decryption / Recommender by Mike/Jimmy/Izagma]]
+- [[https://github.com/hunter-teacher-cert/summer-2020-topics-project-genetic-algorithms-huan][Genetic Algorithms by Huan "Two Million Dollar Dumplings"]]
+- [[https://github.com/hunter-teacher-cert/summer-2020-topics-project-aisearchjacksam][AI Search by John/Sam "Double AllthePoints"]]
+
